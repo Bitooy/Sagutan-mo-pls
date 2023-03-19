@@ -7,21 +7,8 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click',() => {
-    question.innerHTML ='gagiiiii kaya love na love kita eh huhu i love you so muuuuuch';
-    var a;
-    function show_hide()
-    {
-        if (a == 1)
-        {
-            document.getElementById("image").style.display="inline";
-            return a=0;
-        }
-        else {
-            document.getElementById("image").style.display="none";
-            return a=1;
+    question.innerHTML ='gagi i love you so much';    
     
-        }
-    }
 
 });
 noBtn.addEventListener('mouseover', () => {

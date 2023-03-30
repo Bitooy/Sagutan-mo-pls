@@ -7,7 +7,7 @@ const wrapperRect = wrapper.getBoundingClientRect();
 const noBtnRect = noBtn.getBoundingClientRect();
 
 yesBtn.addEventListener('click',() => {
-    question.innerHTML ='gagi i love you so much';    
+    question.innerHTML ='THANKS!';    
     
 
 });
